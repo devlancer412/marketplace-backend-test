@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "autoload",
+    "checkfirst",
+    "fastapi",
+    "hexstr",
+    "keccak",
+    "pydantic",
+    "sessionmaker",
+    "sqlalchemy",
+    "starlette"
+  ]
+}
